@@ -25,6 +25,9 @@ A robust CMS designed to help manage and organize revising posts. It is useful f
 ### [TopoClimb](https://github.com/paulhenry46/topoclimb)
 A tool for managing routes in indoor climbing and bouldering gyms—making it easier to track, share, and organize routes.
 
+### [PyFeyngen](https://github.com/paulhenry46/pyfeyngen)
+A Python library to convert particle physics reaction strings into LaTeX TikZ-Feynman diagrams. See demo at [https://pyfeyngen.saux.fr/](https://pyfeyngen.saux.fr/)
+
 ## Find Me Online
 
 -  [fiches-et-cartes.fr](https://fiches-et-cartes.fr/u/3)
