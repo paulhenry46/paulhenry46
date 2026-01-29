@@ -30,7 +30,7 @@ A tool for managing routes in indoor climbing and bouldering gyms—making it ea
 A Python library to convert particle physics reaction strings into LaTeX TikZ-Feynman diagrams. See demo at [https://pyfeyngen.saux.fr/](https://pyfeyngen.saux.fr/)
 
 #### [PyinkFeyn](https://github.com/paulhenry46/PyinkFeyn)
-A Inkscape extension to draw and generate Feynman Diagrams that uses the engine of PyFeyngen.
+A Inkscape extension to draw and generate Feynman Diagrams that uses the engine of PyFeyngen. See it on [Inkscape Gallery](https://inkscape.org/~Paulhenry/%E2%98%85pyinkfeyn-feynman-diagrams-for-inkscape)
 ## Find Me Online
 
 -  [fiches-et-cartes.fr](https://fiches-et-cartes.fr/u/3)
